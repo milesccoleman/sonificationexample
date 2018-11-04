@@ -7,7 +7,7 @@ The data set included here was adapted from [GoodmanSciences'](https://gist.gith
 Here is a rendered [.wav](https://github.com/milesccoleman/sonificationexample/blob/master/First%20Ten%20Elements%20on%20the%20Periodic%20Table%20(Atomic%20Weights%20and%20Radiuses).wav?raw=true) file of the first 10 elements of the period table. 
 
 To try it yourself: 
-1. Clone the repository, or download the zip. 
+1. Clone the [repository](https://github.com/milesccoleman/sonificationexample), or download the [zip](https://github.com/milesccoleman/sonificationexample/archive/master.zip). 
 2. Open elementalsonification.rb with SonicPi. 
 3. Navigate to ```data = CSV.parse(File.read("/your/file/path/elements.csv"), {:headers => true, :header_converters => :symbol})``` within the code.
 4. Replace ```/your/file/path/elements.csv``` with your own file path. 
