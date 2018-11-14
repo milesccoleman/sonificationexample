@@ -4,7 +4,7 @@ This is a simple script written for use on [SonicPi](https://sonic-pi.net). The 
 
 The data set included here was adapted from [GoodmanSciences'](https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee) "Periodic Table of Elements Data." 
 
-**Listen to a rendered file of the first 10 elements of the periodic table. 
+**Listen to a rendered file of the first 10 elements of the periodic table.** 
 <audio controls>
   <source src="https://github.com/milesccoleman/sonificationexample/blob/master/First%20Ten%20Elements%20on%20the%20Periodic%20Table%20(Atomic%20Weights%20and%20Radiuses).wav?raw=true" type="audio/wav">
 </audio>
