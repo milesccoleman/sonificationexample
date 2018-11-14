@@ -6,8 +6,8 @@ The data set included here was adapted from [GoodmanSciences'](https://gist.gith
 
 **Listen to a rendered file of the first 10 elements of the periodic table. 
 <audio controls>
-  <source src="https://github.com/milesccoleman/sonificationexample/blob/master/First%20Ten%20Elements%20on%20the%20Periodic%20Table%20(Atomic%20Weights%20and%20Radiuses.wav?raw=true">
-  </audio>
+  <source src="https://github.com/milesccoleman/sonificationexample/blob/master/First%20Ten%20Elements%20on%20the%20Periodic%20Table%20(Atomic%20Weights%20and%20Radiuses).wav?raw=true" type="audio/wav">
+</audio>
 
 To try it yourself: 
 1. Clone the [repository](https://github.com/milesccoleman/sonificationexample), or download the [zip](https://github.com/milesccoleman/sonificationexample/archive/master.zip). 
