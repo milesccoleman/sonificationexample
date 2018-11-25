@@ -1,3 +1,4 @@
+[Home](https://milesccoleman.com)
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-67390232-4"></script>
 <script>
